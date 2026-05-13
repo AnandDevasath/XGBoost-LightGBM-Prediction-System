@@ -10,16 +10,16 @@ To improve usability and deployment readiness, the final trained model was seria
 
 🚀 Key Features
 
-End-to-end Machine Learning workflow implementation
-Data preprocessing and feature engineering
-Exploratory Data Analysis (EDA) with visual insights
-Advanced boosting model implementation using XGBoost and LightGBM
-Hyperparameter tuning and model optimization
-Comparative analysis of multiple boosting algorithms
-Model evaluation using performance metrics and confusion matrix
-Real-time prediction system using Streamlit
-Trained model serialization using Joblib (.pkl)
-Scalable and reusable ML pipeline architecture
+End-to-end Machine Learning workflow implementation, 
+Data preprocessing and feature engineering, 
+Exploratory Data Analysis (EDA) with visual insights, 
+Advanced boosting model implementation using XGBoost and LightGBM, 
+Hyperparameter tuning and model optimization, 
+Comparative analysis of multiple boosting algorithms, 
+Model evaluation using performance metrics and confusion matrix, 
+Real-time prediction system using Streamlit, 
+Trained model serialization using Joblib (.pkl), 
+Scalable and reusable ML pipeline architecture .
 
 🛠 Tech Stack
 
