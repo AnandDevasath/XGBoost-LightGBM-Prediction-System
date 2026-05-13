@@ -9,6 +9,7 @@ Both XGBoost and LightGBM models were trained, optimized, and compared using ind
 To improve usability and deployment readiness, the final trained model was serialized using Joblib (.pkl file) and integrated into a Streamlit web application that enables real-time predictions through an interactive user interface.
 
 🚀 Key Features
+
 End-to-end Machine Learning workflow implementation
 Data preprocessing and feature engineering
 Exploratory Data Analysis (EDA) with visual insights
@@ -21,9 +22,12 @@ Trained model serialization using Joblib (.pkl)
 Scalable and reusable ML pipeline architecture
 
 🛠 Tech Stack
+
 Programming Language
 Python
+
 Libraries & Frameworks
+
 Pandas
 NumPy
 Scikit-learn
@@ -32,10 +36,13 @@ LightGBM
 Matplotlib
 Seaborn
 Streamlit
+
 Development Tools
+
 Jupyter Notebook
 Google Colab
 GitHub
 
 📌 Objective
+
 The primary objective of this project is to build an efficient and robust Machine Learning prediction system using advanced ensemble boosting algorithms such as XGBoost and LightGBM to achieve high prediction accuracy, faster training performance, and improved decision-making through data-driven insights. The project also aims to demonstrate practical implementation of scalable ML workflows and deployment-ready predictive applications.
