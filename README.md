@@ -1,4 +1,4 @@
-🚀 ML Prediction Using XGBoost and LightGBM
+🚀 XGBoost & LightGBM Prediction System
 
 This project focuses on developing a high-performance Machine Learning prediction system using advanced boosting algorithms such as XGBoost and LightGBM to deliver accurate, scalable, and efficient predictive analytics on real-world datasets. The project demonstrates the implementation of gradient boosting techniques for solving complex classification and prediction problems with improved model accuracy and computational efficiency.
 
